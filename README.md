@@ -5,4 +5,13 @@
     <li>To contact with developer <a href="https://alfan.link/s2000.n" target="_blank"> Click</a>.</li>
     <li>Open source tool.</li>
 </ul>
+<h3>Library used</h3>
+<ol>
+    <li>Sockets.</li>
+    <li>Python-whois.</li>
+    <li>Colorama.</li>
+    <li>Threaded.</li>
+    <li>Queuelib.</li>
+    <li>Scapy.</li>
+</ol>
 
