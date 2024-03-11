@@ -705,7 +705,7 @@ def main():
         print(Fore.GREEN+"    ["+Fore.WHITE+"04"+Fore.GREEN+"]"+Fore.CYAN+" Shift left with key")
         print(Fore.GREEN+"    ["+Fore.WHITE+"05"+Fore.GREEN+"]"+Fore.CYAN+" AES encryption")
         print(Fore.GREEN+"    ["+Fore.WHITE+"06"+Fore.GREEN+"]"+Fore.CYAN+" DES encryption")
-        print(Fore.GREEN+"    ["+Fore.WHITE+"07"+Fore.GREEN+"]"+Fore.CYAN+" Wailmask calculator")
+        print(Fore.GREEN+"    ["+Fore.WHITE+"07"+Fore.GREEN+"]"+Fore.CYAN+" Waildmask calculator")
         print(Fore.GREEN+"    ["+Fore.WHITE+"08"+Fore.GREEN+"]"+Fore.CYAN+" Trace route")
         print(Fore.GREEN+"    ["+Fore.WHITE+"09"+Fore.GREEN+"]"+Fore.CYAN+" IP to binary")
         print(Fore.GREEN+"    ["+Fore.WHITE+"99"+Fore.GREEN+"]"+Fore.CYAN+" About US")
